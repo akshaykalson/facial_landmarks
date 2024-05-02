@@ -11,7 +11,7 @@ You can install the required libraries using pip:
 pip install dlib scikit-image
 Additionally, download the pretrained shape predictor model from here and extract it to your project directory.
 
-Usage
+Usage:
 To run the facial landmark detection code:
 
 Clone this repository to your local machine.
